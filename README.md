@@ -4,9 +4,10 @@
 [![Hyunseok's Instagram](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yang.cookie_)
 [![Hyunseok's Facebook](https://img.shields.io/badge/facebook-0866FF?style=flat-square&logo=facebook&logoColor=white)](http://www.yanghyunseok.com)
 
-- 🔭 I’m currently working on robotics engineering.
-- 🌱 I’m currently learning deep-learning.
-- :dog: I'm Working for ![LG](https://img.shields.io/badge/LG-A50034?style=flat&logo=LG&logoColor=white&label=Electronics)
+- 😫💡🔭 I’m currently working on robotics engineering and simulation.
+- 😓💡🔬 I'm researching and studying for cloud_robotics and MAPF(multi agent path finding)
+- 😵🌱💡 I’m currently learning deep-learning.
+- 🧑‍💼🐶 I'm Working for ![LG](https://img.shields.io/badge/LG-A50034?style=flat&logo=LG&logoColor=white&label=Electronics)
 
 ### Skills
 
